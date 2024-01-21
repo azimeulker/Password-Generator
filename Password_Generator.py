@@ -1,7 +1,6 @@
 """
-Description: Assignment 3 - Password Generator GUI
+Description: Password Generator GUI
 Author: Azime Ulker    
-Section Number: 248186
 Date Created: 2024-01-18
 """
 
