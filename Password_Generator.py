@@ -56,9 +56,3 @@ my_gif = Picture(app, image="C:\Dev\ADEV-3005\IoT\gif.gif")
 
 # Display the application window
 app.display()
-
-
-
-
-
-
